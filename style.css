@@ -69,8 +69,8 @@ main section {
 /* Photo Section */
 .photo img {
     display: block;
-    width: 150px;
-    height: 150px;
+    width: 144px;
+    height: 180px;
     border-radius: 50%;
     margin: 0 auto;
     border: 3px solid #0078d7;
@@ -84,12 +84,14 @@ main section h2 {
 }
 
 /* Projects & News Lists */
-.projects ul, .news ul {
+.projects ul,
+.news ul {
     list-style-type: none;
     padding: 0;
 }
 
-.projects li, .news li {
+.projects li,
+.news li {
     margin: 0.5rem 0;
 }
 
